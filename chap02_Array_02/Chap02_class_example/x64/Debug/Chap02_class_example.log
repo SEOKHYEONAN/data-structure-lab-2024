@@ -1,0 +1,37 @@
+﻿  Complextest.cpp
+C:\Users\USER\Documents\data-structure-lab-2024\chap02_Array_02\Chap02_class_example\complex.h(19,29): error C2143: 구문 오류: ','이(가) '문자열' 앞에 없습니다.
+  (소스 파일 'Complextest.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\USER\Documents\data-structure-lab-2024\chap02_Array_02\Chap02_class_example\complex.h(17,11): warning C4477: 'scanf_s' : 서식 문자열 '%1f'에 'float *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'double *'입니다.
+  (소스 파일 'Complextest.cpp'을(를) 컴파일하는 중)
+  C:\Users\USER\Documents\data-structure-lab-2024\chap02_Array_02\Chap02_class_example\complex.h(17,11):
+  서식 문자열에서 '%lf'을(를) 사용하는 것이 좋습니다.
+  
+C:\Users\USER\Documents\data-structure-lab-2024\chap02_Array_02\Chap02_class_example\complex.h(17,11): warning C4477: 'scanf_s' : 서식 문자열 '%1f'에 'float *' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'double *'입니다.
+  (소스 파일 'Complextest.cpp'을(를) 컴파일하는 중)
+  C:\Users\USER\Documents\data-structure-lab-2024\chap02_Array_02\Chap02_class_example\complex.h(17,11):
+  서식 문자열에서 '%lf'을(를) 사용하는 것이 좋습니다.
+  
+C:\Users\USER\Documents\data-structure-lab-2024\chap02_Array_02\Chap02_class_example\complex.h(20,10): warning C4473: 'printf': 서식 문자열에 대한 인수가 충분하게 전달되지 않았습니다.
+  (소스 파일 'Complextest.cpp'을(를) 컴파일하는 중)
+  C:\Users\USER\Documents\data-structure-lab-2024\chap02_Array_02\Chap02_class_example\complex.h(20,10):
+  자리 표시자 및 해당 매개 변수에는 variadic 인수가 2개 필요하지만 0개가 제공되었습니다.
+  C:\Users\USER\Documents\data-structure-lab-2024\chap02_Array_02\Chap02_class_example\complex.h(20,10):
+  누락된 variadic 인수 1이(가) 서식 문자열 '%s'에 필요합니다.
+  
+C:\Users\USER\Documents\data-structure-lab-2024\chap02_Array_02\Chap02_class_example\complex.h(21,2): error C2143: 구문 오류: ';'이(가) '}' 앞에 없습니다.
+  (소스 파일 'Complextest.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\USER\Documents\data-structure-lab-2024\chap02_Array_02\Chap02_class_example\Complextest.cpp(4,1): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+C:\Users\USER\Documents\data-structure-lab-2024\chap02_Array_02\Chap02_class_example\Complextest.cpp(8,4): error C2039: 'add': 'Complex'의 멤버가 아닙니다.
+  C:\Users\USER\Documents\data-structure-lab-2024\chap02_Array_02\Chap02_class_example\complex.h(5,7):
+  'Complex' 선언을 참조하십시오.
+  
+  main.cpp
+C:\Users\USER\Documents\data-structure-lab-2024\chap02_Array_02\Chap02_class_example\Car.h(25,26): warning C4477: 'printf' : 서식 문자열 '%x'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'Car *'입니다.
+  (소스 파일 'main.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\USER\Documents\data-structure-lab-2024\chap02_Array_02\Chap02_class_example\Car.h(25,26): warning C4313: 'printf': 서식 문자열의 '%x'이(가) Car *' 형식의 인수 1과(와) 충돌합니다.
+  (소스 파일 'main.cpp'을(를) 컴파일하는 중)
+  
+  코드를 생성하고 있습니다...

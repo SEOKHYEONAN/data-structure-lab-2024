@@ -1,0 +1,4 @@
+﻿  lec10.c
+C:\Users\USER\Documents\data-structure-lab-2024\Project4\Project4\lec10.c(21,9): warning C4101: 'm' :참조되지 않은 지역 변수입니다.
+C:\Users\USER\Documents\data-structure-lab-2024\Project4\Project4\lec10.c(60,48): error C2059: 구문 오류: ';'
+C:\Users\USER\Documents\data-structure-lab-2024\Project4\Project4\lec10.c(60,57): error C2143: 구문 오류: ';'이(가) ')' 앞에 없습니다.
