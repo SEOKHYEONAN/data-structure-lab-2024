@@ -1,4 +1,5 @@
 ﻿  Complextest.cpp
+  main.cpp
 C:\Users\USER\Documents\data-structure-lab-2024\chap02_Array_02\Chap02_class_example\complex.h(19,29): error C2143: 구문 오류: ','이(가) '문자열' 앞에 없습니다.
   (소스 파일 'Complextest.cpp'을(를) 컴파일하는 중)
   
@@ -27,11 +28,11 @@ C:\Users\USER\Documents\data-structure-lab-2024\chap02_Array_02\Chap02_class_exa
   C:\Users\USER\Documents\data-structure-lab-2024\chap02_Array_02\Chap02_class_example\complex.h(5,7):
   'Complex' 선언을 참조하십시오.
   
-  main.cpp
 C:\Users\USER\Documents\data-structure-lab-2024\chap02_Array_02\Chap02_class_example\Car.h(25,26): warning C4477: 'printf' : 서식 문자열 '%x'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'Car *'입니다.
   (소스 파일 'main.cpp'을(를) 컴파일하는 중)
   
 C:\Users\USER\Documents\data-structure-lab-2024\chap02_Array_02\Chap02_class_example\Car.h(25,26): warning C4313: 'printf': 서식 문자열의 '%x'이(가) Car *' 형식의 인수 1과(와) 충돌합니다.
   (소스 파일 'main.cpp'을(를) 컴파일하는 중)
   
+C:\Users\USER\Documents\data-structure-lab-2024\chap02_Array_02\Chap02_class_example\main.cpp(3,10): error C1083: 포함 파일을 열 수 없습니다. 'Rectangle': No such file or directory
   코드를 생성하고 있습니다...
